@@ -1,0 +1,19 @@
+{
+    "name": "Clothing",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/collection/entity": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Clothing",
+        "/category/asset_value_tracking/token/symbol": "Clo",
+        "/category/asset_value_tracking/token/decimals": "17",
+        "/category/asset_value_tracking/token/supply": "9999999999"
+    }
+}
